@@ -11,11 +11,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "clearweather",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
@@ -107,17 +102,12 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -167,7 +157,7 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 400,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -192,11 +182,6 @@
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
 	},
@@ -252,7 +237,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -282,22 +267,12 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "trait",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -329,112 +304,7 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "surgery",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "passionshuffle",
-		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "replacetrait",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "rescueme",
-		"price": 800,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "passion",
-		"price": 7000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removepassion",
-		"price": 5000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "settraits",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "use",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "wear",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "equip",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomchildhood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomadulthood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "sanctuary",
-		"price": 100000,
-		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 61
 }
